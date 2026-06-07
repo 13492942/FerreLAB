@@ -7,7 +7,6 @@ import os
 import sqlite3
 #Libreria para reportar las actividades del empleado
 from datetime import datetime
-#Libreria para manejar rutas de archivos en el entorno de desarrollo y en el ejecutable
 import sys
 
 def recurso(nombre):
